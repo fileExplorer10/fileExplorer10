@@ -10,7 +10,7 @@
 
 ## My OS
 <div style="display: inline_block"></br>
-    <img align= "center" alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">    
+    <img align= "center" alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">    
 </div> </br>
 
 ## Tecnologias
